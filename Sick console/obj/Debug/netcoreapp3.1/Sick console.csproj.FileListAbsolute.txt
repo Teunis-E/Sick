@@ -1,0 +1,27 @@
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.exe
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.deps.json
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.runtimeconfig.json
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.runtimeconfig.dev.json
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.dll
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.pdb
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.csproj.AssemblyReference.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.AssemblyInfoInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.AssemblyInfo.cs
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.csproj.CoreCompileInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.dll
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.pdb
+C:\AVANS\Jaar 4\Afstuderen\IFM C# example\Bewerkt C#\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.genruntimeconfig.cache
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.exe
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.deps.json
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.runtimeconfig.json
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.runtimeconfig.dev.json
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.dll
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\bin\Debug\netcoreapp3.1\Sick console.pdb
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.csproj.AssemblyReference.cache
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.GeneratedMSBuildEditorConfig.editorconfig
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.AssemblyInfoInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.AssemblyInfo.cs
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.csproj.CoreCompileInputs.cache
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.dll
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.pdb
+C:\AVANS\Jaar 4\Afstuderen\Sick console\Sick console\obj\Debug\netcoreapp3.1\Sick console.genruntimeconfig.cache
